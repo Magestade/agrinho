@@ -35,3 +35,12 @@ footer {
     bottom: 0;
     width: 100%;
 }
+img {
+    width: 40%;
+    margin: 0 10%;
+}
+.conteudo {
+    display: grid;
+    grid-template-columns: 50% 50%;
+  align-items: center;
+}
