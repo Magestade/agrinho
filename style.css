@@ -44,3 +44,6 @@ img {
     grid-template-columns: 50% 50%;
   align-items: center;
 }
+p {
+    font-size: 1.2em;
+}
